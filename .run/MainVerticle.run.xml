@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MainVerticle" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="io.vertx.core.Launcher" />
+    <module name="clean-code-vertx" />
+    <option name="PROGRAM_PARAMETERS" value="run at.technikum.vertx.MainVerticle" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
